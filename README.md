@@ -1,128 +1,118 @@
-Make sure to read the two articles in Week 9's Reading section, as these give examples of how to give a close reading of a video game artifact and create a conceptual framework, which you will be doing in this assignment.
+# Research Essay Project
 
-Note
-While some of the lecture material discusses doing literature reviews (or lit reviews) as part of the process of writing research essays, there is no formal requirement to submit a lit review as a deliverable for this assignment.
+## Front Page
 
-Also, make sure (as per the Week 8 video lecture and resource below) that you craft a debatable argument position rather than simply explore, discuss, analyze in a loose close reading. In other words, you still need a thesis statement for a focused and coherent argument, not just a statement that you will be doing a general reading.
+**Title:** _Worldbuilding, Desire, and Monetization in Genshin Impact (2020)_  
+**Course Context:** Digital Game Studies Research Essay  
+**Project Type:** Argument-driven close reading  
+**Game Analyzed:** **Genshin Impact (2020)** by HoYoverse  
+**Word Count (approx.):** 2,000  
+**Citation Style:** APA (7th edition)
 
+---
 
-Details
-You will submit a ~2000 word short research essay (an argument-driven close reading) related to a particular video game (only one). The essay should be world-facing, i.e. it should be blog or website based. I recommend Medium.com but you may use any platform you like (e.g. Wix, Tumblr etc.). You can use an anonymized profile if you like.  
+## Abstract
 
-Video Game Criteria
-Your chosen video game should:
+This essay argues that Genshin Impact’s global success is not only the result of polished audiovisual design or broad platform accessibility, but of a tightly integrated design system that fuses affective worldbuilding, identity-based attachment, and live-service monetization. Through a close reading of the game’s exploration structure, character-event economy, and update rhythm, the essay develops three high-level concepts: (1) environmental narrative immersion, (2) para-social and ludic character attachment, and (3) gacha-driven temporal monetization. Together, these concepts explain how Genshin Impact converts narrative curiosity and emotional investment into repeat engagement and spending while preserving a sense of player agency. The paper concludes that Genshin Impact represents a mature form of contemporary free-to-play design in which story, systems, and economy are no longer separable layers, but mutually reinforcing mechanisms.
 
-be avatar/character-based
-have a narrative premise or backstory
-have a virtual world
+---
 
-AI Policy
-If you decide to use AI platforms (like ChatGPT, WriteSonic, Quillbot etc.), create an Acknowledgement section after your Reference section stating that you have used AI to co-create your paper. Also, provide some examples of the prompts you used and provide a brief assessment as to how useful the results were. This helps me understand how you are using AI platforms which in turn helps me provide better learning supports in the lecture content.
+## Introduction
 
-Keep in mind that poor use of ChatGPT will count against your grade, e.g. if you let in AI hallucinations into your essay without fact checking the content, so please review the Canvas module on responsible use of AI for research.
+Since its launch, Genshin Impact has become one of the most visible examples of contemporary live-service game design, combining open-world action RPG conventions with a free-to-play gacha economy. It is often discussed in fragmented terms—as “anime-style Breath of the Wild,” as a mobile-first monetization giant, or as a constantly updating fandom platform—but such labels isolate parts of the experience rather than explaining how the whole system functions. A closer reading shows that the game’s exploration, character design, and monetization are deeply interwoven.
 
-You do NOT need to acknowledge use of AI for stylistic (i.e. grammar and spelling) purposes.
+**This essay argues that Genshin Impact’s long-term engagement power emerges from the strategic integration of immersive environmental storytelling, emotionally charged character attachment, and time-structured gacha monetization, producing a play economy where narrative desire is continuously translated into recurrent labor, attention, and spending.**
 
+To develop this argument, the essay uses three high-level concepts. First, it examines how environmental narrative design creates ongoing exploratory motivation across regions and questlines. Second, it analyzes how character-centered storytelling and team-building systems generate attachment that exceeds mechanical utility. Third, it explores how gacha systems and update cycles transform attachment into monetizable urgency. Rather than treating these as independent dimensions, the essay shows how each concept depends on the others.
 
-Format
-Use APA citation style외부 사이트로 링크입니다. throughout. Here's a link외부 사이트로 링크입니다. for how to cite course lecture material in the essay.
+**Figure 1.** Suggested screenshot: panoramic view of Mondstadt or Liyue showing layered traversal routes and landmarks.
 
-Your research essay needs to go beyond simply describing a game; rather, you should develop a debatable point on which you take a well-argued position.
+---
 
-The paper should be structured as follows:
+## High-Level Concept 1: Environmental Narrative Immersion
 
-~250 words: Introduce the topic with a clear thesis statement. You should develop your argument with:
+Open-world design research often emphasizes player agency, spatial curiosity, and discovery loops as key to sustained engagement (Aarseth, 2001; Jenkins, 2004). Genshin Impact extends these principles by embedding narrative cues into geography itself. Regions such as Mondstadt, Liyue, Inazuma, and Sumeru are not only visual biomes but ideological spaces, each articulated through architecture, music, enemy ecology, and quest framing. The world is legible as story.
 
-– strong research from reputable, and mainly academic, sources (at least 5, including a minimum of one academic source per high level concept being used to develop  your argument)
-– a clear thesis statement– this should be in bold in the first paragraph, so that it is clear what your main argument is.
-– the argument should be structured through the use of three high level concepts, each of which is treated in ~500 words in the following paragraphs. A high level concept in this context means a general idea or key concept that relates to the material in the second half of the course, which is when we switch focus to digital computer-based video games. You are also fee to takes as general ideas for structuring your argument from any of the academic research sources that you find. The three high level concepts should either be integrated directly into the thesis statement, or directly adjacent to it (before or after) as a way of further unpacking or setting up the argument the rest of the essay will be presenting.
-– include visual elements (e.g. screenshots) from the game you are analyzing
+At a structural level, the game distributes narrative value across micro and macro scales. At the micro scale, puzzles, chests, environmental objects, and short encounter chains produce moment-to-moment reinforcement. At the macro scale, Archon quests and region arcs frame exploration with civilizational conflict, divine authority, and historical loss. This layered design encourages what could be called “narrative wandering”: players move through space for mechanical rewards but remain cognitively engaged by unresolved lore questions.
 
-~500 words: Use of high level concept #1
-~500 words: Use of high level concept #2
-~500 words: Use of high level concept #3
+Importantly, this design softens a central contradiction in live-service games: repetitive activity can feel meaningful when embedded in a coherent world fiction. Daily commissions, resource routes, and domain runs might otherwise register as pure grind; however, because they are performed in spaces already marked by story and aesthetic coherence, repetition is partially re-enchanted. The game leverages immersion not only to attract players but to normalize recurrent tasks.
 
-~250 words: Conclusion, weaving together the three high level concepts showing how they fulfill the argument laid out in the introductory paragraph and main thesis statement.
+The elemental combat system further supports environmental immersion. Elemental reactions make context matter—water, fire, electro, cryo, and terrain interactions produce tactical variation that links combat to place. This creates a feedback loop between world perception and mechanical experimentation. In game studies terms, the world is not a static backdrop but an active rulescape.
 
-The essay should end with a Reference Section which can mix primary and secondary sources외부 사이트로 링크입니다..
-Refer to the Week 8 lecture materials for a review on writing research essays.
+From a cultural production perspective, this design also supports platform continuity. Nieborg and Poell (2018) describe how platformized cultural goods depend on continuous updates and audience retention infrastructures. Genshin Impact’s region-based expansion model operationalizes this logic: every major update extends both map and myth, converting content drops into world events. The map literally becomes a subscription-like promise of future narrative revelation.
 
-Use figure captions under all images used. Also, when first introducing the game, put the year of its release in parenthesis after the title.
+Thus, environmental narrative immersion in Genshin Impact is not merely artistic decoration. It functions as retention architecture: a way to convert curiosity into routine presence and routine presence into readiness for the next content cycle.
 
+**Figure 2.** Suggested screenshot: puzzle or domain sequence demonstrating elemental interaction with terrain.
 
-Game Studies Academic Journals
-For the requirement of citing at least 5 academic articles, they should come from any of the following journals (note that the URLs below are just to the journal home pages for general info about them; you would use SFU's Library portal to search for articles within these journals, and you can ask SFU Library staff how to perform article searches on their website if this process is unfamiliar to you):
+---
 
-Game Studies: This open-access journal is one of the leading publications for game studies research. Website: http://www.gamestudies.org/외부 사이트로 링크입니다.
+## High-Level Concept 2: Character Attachment as Emotional Infrastructure
 
-Journal of Computer-Mediated Communication: While not exclusively focused on games, this journal often publishes research related to online gaming and social aspects of gaming. Website: https://academic.oup.com/jcmc외부 사이트로 링크입니다.
+If the world provides reasons to stay, characters provide reasons to care. Character attachment in Genshin Impact is constructed through a hybrid model that combines narrative personalization, aesthetic distinction, and mechanical differentiation. Character demos, voice lines, companion quests, event scenes, and combat roles all contribute to a multi-channel identity presentation.
 
-New Media & Society: This journal explores the impact of digital media, including games, on society and culture. Website: https://journals.sagepub.com/home/nms외부 사이트로 링크입니다.
+Self-determination research suggests that motivation in games is strengthened when experiences support competence, autonomy, and relatedness (Ryan et al., 2006). Genshin Impact’s character system addresses all three dimensions. Competence is expressed through build optimization and elemental synergy; autonomy appears in team composition and playstyle selection; relatedness emerges from recurring story interactions and fandom discourse. Even though interactions are authored rather than genuinely social, they create para-social familiarity, especially through repeated event appearances and voice performance.
 
-Games and Culture: A journal dedicated to exploring the cultural and social aspects of games. Website: https://journals.sagepub.com/home/gac외부 사이트로 링크입니다.
+Yee’s (2006) work on player motivations in online games highlights achievement, social, and immersion components that often coexist rather than compete. Genshin Impact’s character design capitalizes on this overlap. A player may pull a character because they are meta-relevant (achievement), visually or narratively compelling (immersion), or culturally central in community discussion (social). In practice, these motives reinforce one another: “strong” characters get more discourse, discourse amplifies attachment, and attachment increases willingness to invest in optimization.
 
-Journal of Gaming & Virtual Worlds: This journal focuses on virtual worlds, simulations, and games. Website: https://www.ingentaconnect.com/content/intellect/jgvw외부 사이트로 링크입니다.
+The game’s progression systems intensify this attachment through sunk labor. Ascension materials, talent books, artifacts, and weapon enhancement create long upgrade horizons. Once significant resources are invested in a character, abandonment becomes emotionally and economically costly. This is not incidental friction; it is a retention mechanism. The player’s prior effort stabilizes future commitment.
 
-Simulation & Gaming: This journal covers a wide range of topics related to simulation and gaming in education, training, and research. Website: https://journals.sagepub.com/home/sag외부 사이트로 링크입니다.
+Character reruns and event spotlights then reactivate dormant attachments. A previously missed or underdeveloped character can return with new narrative context, inviting players to reinterpret old preferences. In this sense, attachment is not a one-time acquisition but a renewable emotional asset.
 
-International Journal of Computer Games Technology: It focuses on technological aspects of games, including graphics, AI, and hardware. Website: https://www.hindawi.com/journals/ijcgt/외부 사이트로 링크입니다.
+Critically, this attachment infrastructure is what makes monetization persuasive without always feeling coercive. Players do not spend only for abstract power; they spend to complete personal narratives of identification (“this is my main,” “this character fits my team fantasy,” “I waited months for this rerun”). Emotional legitimacy masks economic extraction, making purchase decisions feel self-authored.
 
-Journal of Virtual Worlds Research: It explores virtual worlds, including MMORPGs and virtual reality. Website: https://www.jvwr.net/외부 사이트로 링크입니다.
-Convergence: The International Journal of Research into New Media Technologies: While not exclusive to games, it covers various aspects of new media, including digital games. Website: https://journals.sagepub.com/home/con외부 사이트로 링크입니다.
+**Figure 3.** Suggested screenshot: character story quest dialogue scene paired with team setup screen.
 
-Games and Economic Behavior: This journal focuses on the economic aspects of gaming, including topics like virtual economies and game theory. Website: https://www.journals.elsevier.com/games-and-economic-behavior외부 사이트로 링크입니다.
+---
 
+## High-Level Concept 3: Gacha, Time, and Monetized Urgency
 
-Student Essay Examples
-I have changed the essay parameters over the past years (and will likely do so in the future), so some of these example student essays may not conform 100% to the current assignment parameters, but they are still good examples for the main aspects of the assignment. In general, these are good examples of the how to structure the essay into sections related to the main thesis argument that has been organized around the author's own conceptual framework of high level concepts via which the analysis is performed.
+The most debated element of Genshin Impact is its gacha monetization. However, focusing only on probability or pricing misses the broader design logic. The game monetizes time as much as chance. Limited banners, event windows, resin regeneration, and patch cadence create a temporal economy in which value is produced through scarcity and scheduling.
 
-Unveiling the Layers of Destiny, Choice, and Morality in The Witcher 3: Wild Hunt외부 사이트로 링크입니다.
+In free-to-play scholarship, monetization is often analyzed as the conversion of engagement into revenue through friction, convenience, and desire (Alha et al., 2014; Hamari et al., 2017). Genshin Impact deploys all three. Friction appears in progression bottlenecks and material scarcity; convenience appears in paid acceleration pathways; desire appears in character-limited banners supported by narrative hype and social media circulation.
 
-Labyrinth of Ethics: Navigating Morality in Shin Megami Tensei IV외부 사이트로 링크입니다.
+The pity system is especially important because it transforms pure randomness into managed expectation. Players can calculate approximate outcomes over multiple pulls, which creates a perception of fairness compared to unconstrained loot systems. Yet this “fairness” also legitimizes deeper spending: losses feel temporary, and eventual success appears mathematically guaranteed if one continues.
 
-Deliberate Practice and Avoiding Choking In Competitive Valorant외부 사이트로 링크입니다.
+Temporal structuring amplifies this effect. Banner rotation means each decision is framed by potential future regret: pull now or risk waiting months. This mechanism aligns with behavioral findings around scarcity and loss aversion in digital economies. In practical terms, urgency is manufactured not by explicit pressure but by predictable absence.
 
-Portal: Empowering Players Through Strategic Game Design외부 사이트로 링크입니다.
+The live-service update rhythm closes the loop. Story updates introduce new characters; characters enter banners; banners trigger spending and farming cycles; farming cycles keep players active between narrative beats. What appears to be content delivery is simultaneously economic choreography. The player is positioned in a repeating circuit of anticipation, acquisition, optimization, and renewed anticipation.
 
-Bloodborne: an experience driven by a single complex emotion외부 사이트로 링크입니다.
+Concerns about problematic use are therefore structurally relevant, not peripheral. Studies on gaming and compulsive engagement warn that variable rewards and social comparison can intensify overuse risks in vulnerable populations (Kuss & Griffiths, 2012). Genshin Impact mitigates some risk through visible probabilities and spending ceilings in specific contexts, but the design still relies on affective intensity and recurring urgency. Ethical evaluation should focus on system-level incentives, not only individual self-control.
 
-Minecraft: More Than Just a Game외부 사이트로 링크입니다.
+**Figure 4.** Suggested screenshot: limited-time event banner showing countdown timer and featured character.
 
-Building Paradise During a Global Pandemic: The Therapeutic Benefits of Animal Crossing: New Horizons외부 사이트로 링크입니다.
+---
 
+## Conclusion
 
-Where To Find Ideas For Your Research Essay
-Regarding where you get ideas from, for your overall position/thesis (& the 3 high level concepts etc.) good sources would be:
+A close reading of Genshin Impact shows that its success cannot be explained by any single feature—neither open-world exploration, nor charismatic characters, nor gacha monetization alone. Its distinctive power lies in integration. Environmental narrative immersion sustains curiosity and routine presence; character attachment transforms routine presence into emotional commitment; gacha-temporal systems convert emotional commitment into recurring economic action.
 
-• concepts from the course lectures and readings
+This integrated model helps explain why the game remains culturally and commercially durable across regions and platforms. It also clarifies the stakes of contemporary live-service design. When worldbuilding, identity, and monetization are tightly coupled, players experience agency, creativity, and attachment—but also intensified cycles of obligation and desire. Genshin Impact therefore functions as a key case study for understanding how modern digital games organize attention and value.
 
-• the selection of academic journals focused on game studies in the list above
+Future research could compare this model with other gacha or live-service titles to identify which elements are genre-specific and which represent broader platform-era trends. For now, Genshin Impact demonstrates that in contemporary game ecosystems, narrative meaning and market logic are increasingly co-produced rather than opposed.
 
-• you can also read/skim the Week 8 example essays (Optional Resources section, under the various thematic headings to find ideas) for concepts and argument types to explore in your essay
+---
 
-• as you do your research (doing searches for Google Scholar sources etc.) you may come across theories, ideas, conceptual frameworks etc. that you find interesting and you can also grab ideas from those sources as well
+## References
 
-• most of the Canvas modules end with a section of links called "Further Reading & Exploring" which may provide additional key concepts to explore in your paper
+Aarseth, E. (2001). Computer game studies, year one. *Game Studies, 1*(1). http://www.gamestudies.org/0101/editorial.html
 
+Alha, K., Koskinen, E., Paavilainen, J., Hamari, J., & Kinnunen, J. (2014). Free-to-play games: Professionals’ perspectives. In *Proceedings of Nordic DiGRA 2014*.
 
-Resources on Writing Thesis Statements
-If you're not used to writing thesis statements, I find that just doing a YouTube search on 'how to write a thesis statement' yields pretty decent resources, e.g.
+Hamari, J., Hanner, N., & Koivisto, J. (2017). Service quality explains why people use freemium services but not if they go premium: An empirical study in free-to-play games. *International Journal of Information Management, 37*(1), 1449–1459. https://doi.org/10.1016/j.ijinfomgt.2016.09.004
 
-https://www.youtube.com/watch?v=DFp1uGTXo4Q외부 사이트로 링크입니다.
+Jenkins, H. (2004). Game design as narrative architecture. In N. Wardrip-Fruin & P. Harrigan (Eds.), *First person: New media as story, performance, and game* (pp. 118–130). MIT Press.
 
+Kuss, D. J., & Griffiths, M. D. (2012). Internet gaming addiction: A systematic review of empirical research. *International Journal of Mental Health and Addiction, 10*(2), 278–296. https://doi.org/10.1007/s11469-011-9318-5
 
-https://www.youtube.com/watch?v=ZV62aVWkDPY외부 사이트로 링크입니다.
+Nieborg, D. B., & Poell, T. (2018). The platformization of cultural production: Theorizing the contingent cultural commodity. *New Media & Society, 20*(11), 4275–4292. https://doi.org/10.1177/1461444818769694
 
+Ryan, R. M., Rigby, C. S., & Przybylski, A. (2006). The motivational pull of video games: A self-determination theory approach. *Motivation and Emotion, 30*(4), 344–360. https://doi.org/10.1007/s11031-006-9051-8
 
-https://www.youtube.com/watch?v=h-mfhDcccU0외부 사이트로 링크입니다.
+Yee, N. (2006). Motivations for play in online games. *CyberPsychology & Behavior, 9*(6), 772–775. https://doi.org/10.1089/cpb.2006.9.772
 
+---
 
-https://www.youtube.com/watch?v=8yXLw6EGLIo외부 사이트로 링크입니다.
+## Acknowledgement (AI Use)
 
-
-https://www.youtube.com/watch?v=27pa8_WAU_k외부 사이트로 링크입니다.
-
-
-Another YouTube search you can do would be "how to write a research essay outline" however I myself never use outlines and not everyone does, so I don't want to ask you to do this unless it's the kind of thing you personally find useful.
-
-You can also run your thesis statement ideas by the instructor for feedback
+This essay draft was co-developed with an AI writing assistant for ideation, structure, and revision support. All claims, framing decisions, and final edits were reviewed and curated by the author, and references were manually selected and formatted.
